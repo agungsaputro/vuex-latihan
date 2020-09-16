@@ -1,8 +1,8 @@
 # vuex-latihan
 
 ## Docker
-- [*] image
-- [*] Dockerfile
+- [x] image
+- [x] Dockerfile
 - [ ] connected
 - [ ] work
 
