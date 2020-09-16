@@ -1,5 +1,17 @@
 # vuex-latihan
 
+## Docker
+- [*] image
+- [*] Dockerfile
+- [ ] connected
+- [ ] work
+
+## link image dockerhub
+```
+https://hub.docker.com/repository/docker/951119/fe-docker
+
+```
+
 ## Project setup
 ```
 npm install
